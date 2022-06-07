@@ -8,9 +8,9 @@
     <VerticalSpacer height="10"/>
     <div class="d-flex flex-column justify-content-center align-items-center">
         <h1 class="text-center">About the Developers</h1>
-        <span class="fs-5">We are the developers of this website. Get to know us!</span>
+        <span class="fs-6">We are the developers of this website. Get to know us!</span>
     </div>
-    <VerticalSpacer height="20"/>
+    <VerticalSpacer height="5"/>
     <div class="d-flex justify-content-center">
         {#await $developerStore}
             Waiting data
