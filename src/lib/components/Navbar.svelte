@@ -1,11 +1,12 @@
 <script lang="ts">
     const logoLink = "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/undefined/external-fashion-fashion-week-flaticons-lineal-color-flat-icons.png"
+    const actualLogo = "/assets/logo/cubex.png"
 </script>
 
 <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
         <a class="navbar-brand d-inline-flex align-items-center" href="#">
-            <img src={logoLink} alt="" width="40" height="40" class="d-inline-block align-text-top">
+            <img src={actualLogo} alt="" width="40" height="40" class="d-inline-block align-text-top">
             Cubex
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,7 +25,8 @@
                         <li><a class="dropdown-item" href="/Apparel">Apparel</a></li>
                         <li><a class="dropdown-item" href="/Logos">Logos</a></li>
                         <li><a class="dropdown-item" href="/Posters">Posters</a></li>
-                        <li><a class="dropdown-item" href="/Brands">Brands/Menu</a></li>
+                        <li><a class="dropdown-item" href="/Brands">Branding</a></li>
+                        <li><a class="dropdown-item" href="/Covers">Covers</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
