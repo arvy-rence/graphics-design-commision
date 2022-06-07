@@ -6,13 +6,14 @@
     <div class="d-flex justify-content-evenly">
         <div class="text-white">
             <VerticalSpacer height="6" units={"rem"}/>
-            <h1 class="larger-font">UP TO 35% OFF BEAUTY PRODUCTS </h1>
-            <div class="fs-5">Don't wait! This exclusive deal won't last forever. <br>Visit the our Shop and Grab
-                your Favorite Products
+            <h1 class="larger-font">Check out our graphic designs</h1>
+            <div class="fs-5">
+                If you are interested, reach out to our socials and let us <br>
+                talk about your next product!
             </div>
             <VerticalSpacer height="20"/>
-            <a href="/AllProducts">
-                <button class="btn btn-outline-light rounded-pill fs-5" style="width: 12rem">SHOP NOW</button>
+            <a href="/Posters">
+                <button class="btn btn-outline-light rounded-pill fs-5" style="width: 12rem">Check Posters</button>
             </a>
         </div>
         <div></div>

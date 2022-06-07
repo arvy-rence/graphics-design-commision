@@ -5,7 +5,6 @@
     import Footer from "../lib/components/Footer.svelte";
 </script>
 
-
 <Carousel/>
 <Banner/>
 <CategoryPanels/>
