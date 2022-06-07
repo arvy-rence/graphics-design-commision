@@ -5,7 +5,7 @@ export interface Item {
     itemType: ItemType
 }
 
-enum ItemType {
+export enum ItemType {
     BRANDING,
     APPAREL,
     COVERS,
